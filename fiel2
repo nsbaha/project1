@@ -1,0 +1,846 @@
+
+<!DOCTYPE html>
+<html itemscope itemtype="http://schema.org/Other">
+
+<head prefix="og: http://ogp.me/ns# profile: http://ogp.me/ns/profile#">
+  <link rel="stylesheet" type="text/css" href="frontend.css">
+  <title>New Code - web development company</title>
+  <meta property="og:title" content="New Code - web development company" />
+  <meta property="og:type" content="website" />
+  <meta property="og:description" content="We are tech savvy humans who love developing digital products. We deliver quality code for brands, agencies and startups." />
+  <meta property="og:url" content="http://www.newcode.lt" />
+  <meta property="og:image" content="http://www.newcode.lt/img/logo-og.png" />
+  <meta property="og:image:width" content="500" />
+  <meta property="og:image:height" content="202" />
+  <meta name="robots" content="index, follow">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+  <link rel="canonical" href="http://www.newcode.lt/">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="img/favicon.ico" type="image/x-icon">
+  <link rel="apple-touch-icon" sizes="57x57" href="img/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="img/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="img/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="img/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="img/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="img/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="img/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="img/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="img/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="img/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="img/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
+  <link rel="manifest" href="manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <script>
+  (function(i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r;
+    i[r] = i[r] || function() {
+      (i[r].q = i[r].q || []).push(arguments)
+    }, i[r].l = 1 * new Date();
+    a = s.createElement(o),
+      m = s.getElementsByTagName(o)[0];
+    a.async = 1;
+    a.src = g;
+    m.parentNode.insertBefore(a, m)
+  })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+  ga('create', 'UA-87789519-1', 'auto');
+  ga('send', 'pageview');
+
+  </script>
+  <style type="text/css">
+  html {
+    -ms-touch-action: none;
+  }
+
+  </style>
+</head>
+
+<body>
+  <div class="c-top u-clear js-top">
+    <div class="c-wrap u-clear">
+      <div class="c-logo u-clear act">
+        <a class="c-logo__link u-sheet" href=""></a>
+      </div>
+      <div class="c-nav js-nav">
+        <div class="c-nav__trigger js-nav-trigger act">
+          <div class="c-nav__text">Close</div>
+          <div class="c-nav__icon"></div>
+        </div>
+        <div class="c-nav__box">
+          <div class="c-nav__scroll js-nav-scroll">
+            <ul class="c-nav__links">
+              <li class="c-nav__item js-nav-item act">
+                <a class="c-nav__link js-nav-link" href="#portfolio">
+                  <span>Portfolio</span>
+                </a>
+              </li>
+              <li class="c-nav__item js-nav-item act">
+                <a class="c-nav__link js-nav-link" href="#skills">
+                  <span>Skills</span>
+                </a>
+              </li>
+              <li class="c-nav__item js-nav-item act">
+                <a class="c-nav__link js-nav-link" href="#contacts">
+                  <span>Contact Us</span>
+                </a>
+              </li>
+              <!--
+              <li>
+                <ul class="c-nav__langs u-clear">
+                  <li class="c-nav__item js-nav-item c-nav__lang active">
+                    <a class="c-nav__link" href="">
+                      <span>EN</span>
+                    </a>
+                  </li>
+                  <li class="c-nav__item js-nav-item c-nav__lang">
+                    <span class="c-nav__link">&nbsp;/&nbsp;</span>
+                  </li>
+                  <li class="c-nav__item js-nav-item c-nav__lang act">
+                    <a class="c-nav__link" href="">
+                      <span>DK</span>
+                    </a>
+                  </li>
+                 -->
+            </ul>
+            </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="c-page js-page js-page-portfolio" data-hash="portfolio">
+    <div class="c-wrap u-clear">
+      <div class="c-page__cont">
+        <div class="c-page__intro">
+          <h1 class="c-page__title">We are tech-savvy humans who love<br/>developing digital products</h1>
+          <div class="c-page__subtitle">
+            <span>We deliver quality code for brands, agencies and startups</span>
+          </div>
+          <div class="c-page__subnav">
+            <span>Check our <span class="c-page__front-scroll c-page__subnav-item js-front-scroll act">portfolio</span>, <a href="#skills" class="c-page__subnav-item js-nav-link act">skills</a> or <a href="#contacts" class="c-page__subnav-item js-nav-link act">contact us</a></span>
+          </div>
+        </div>
+        <div class="c-page__blocks u-clear js-blocks">
+          <div class="c-page__row u-clear">
+            <div class="c-block u-clear c-block--half">
+              <div class="c-block__img-wrap u-clear">
+                <div class="c-block__img c-block__img--half" style="background-image: url('images/birute.jpg');"></div>
+                <a class="c-block__img-link" href="http://birute.lt/lt" target="_blank"></a>
+              </div>
+              <div class="c-block__desc u-clear">
+                <div class="c-block__title">
+                  <span>programming by New Code</span>
+                </div>
+                <a class="c-block__link act" href="http://birute.lt/lt" target="_blank">
+                  <span>birute.lt</span>
+                </a>
+              </div>
+            </div>
+            <div class="c-block u-clear c-block--half">
+              <div class="c-block__img-wrap u-clear">
+                <div class="c-block__img c-block__img--half" style="background-image: url('images/wepower.jpg');"></div>
+                <a class="c-block__img-link" href="https://wepower.network" target="_blank"></a>
+              </div>
+              <div class="c-block__desc u-clear">
+                <div class="c-block__title">
+                  <span>frontend programming by New Code</span>
+                </div>
+                <a class="c-block__link act" href="https://wepower.network" target="_blank">
+                  <span>wepower.network</span>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="c-page__row u-clear">
+            <div class="c-block u-clear c-block--half">
+              <div class="c-block__img-wrap u-clear">
+                <div class="c-block__img c-block__img--half" style="background-image: url('images/inhus.jpg');"></div>
+                <a class="c-block__img-link" href="http://inhus.eu/lt" target="_blank"></a>
+              </div>
+              <div class="c-block__desc u-clear">
+                <div class="c-block__title">
+                  <span>concept, design & programming by New Code</span>
+                </div>
+                <a class="c-block__link act" href="http://inhus.eu/lt" target="_blank">
+                  <span>inhus.eu</span>
+                </a>
+              </div>
+            </div>
+            <div class="c-block u-clear c-block--half">
+              <div class="c-block__img-wrap u-clear">
+                <div class="c-block__img c-block__img--half" style="background-image: url('images/yoma.jpg');"></div>
+                <a class="c-block__img-link" href="https://yourownmaps.com/" target="_blank"></a>
+              </div>
+              <div class="c-block__desc u-clear">
+                <div class="c-block__title">
+                  <span>concept, design & programming by New Code</span>
+                </div>
+                <a class="c-block__link act" href="https://yourownmaps.com/" target="_blank">
+                  <span>yourownmaps.com</span>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="c-page__row u-clear">
+            <div class="c-block u-clear c-block--half">
+              <div class="c-block__img-wrap u-clear">
+                <div class="c-block__img c-block__img--half" style="background-image: url('images/pacai.jpg');"></div>
+                <a class="c-block__img-link" href="https://hotelpacai.com/en" target="_blank"></a>
+              </div>
+              <div class="c-block__desc u-clear">
+                <div class="c-block__title">
+                  <span>programming by New Code</span>
+                </div>
+                <a class="c-block__link act" href="https://hotelpacai.com/en" target="_blank">
+                  <span>hotelpacai.com</span>
+                </a>
+              </div>
+            </div>
+            <div class="c-block u-clear c-block--half">
+              <div class="c-block__img-wrap u-clear">
+                <div class="c-block__img c-block__img--half" style="background-image: url('images/rotuse.jpg');"></div>
+                <a class="c-block__img-link" href="https://www.vilniausrotuse.lt/lt" target="_blank"></a>
+              </div>
+              <div class="c-block__desc u-clear">
+                <div class="c-block__title">
+                  <span>frontend programming by New Code</span>
+                </div>
+                <a class="c-block__link act" href="https://www.vilniausrotuse.lt/lt" target="_blank">
+                  <span>vilniausrotuse.lt</span>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="c-page__row u-clear">
+            <div class="c-block u-clear c-block--half">
+              <div class="c-block__img-wrap u-clear act">
+                <div class="c-block__img c-block__img--half c-block__img--lamuslenis">
+                  <a class="c-block__img-link" href="http://lamuslenis.lt" target="_blank"></a>
+                </div>
+              </div>
+              <div class="c-block__desc u-clear">
+                <div class="c-block__title">
+                  <span>programming by New Code</span>
+                </div>
+                <a class="c-block__link act" href="http://lamuslenis.lt" target="_blank">
+                  <span>lamuslenis.lt</span>
+                </a>
+              </div>
+            </div>
+            <div class="c-block u-clear c-block--half">
+              <div class="c-block__img-wrap u-clear">
+                <div class="c-block__img c-block__img--half c-block__img--100kelione"></div>
+                <a class="c-block__img-link" href="http://www.100kelione.lt" target="_blank"></a>
+              </div>
+              <div class="c-block__desc u-clear">
+                <div class="c-block__title">
+                  <span>programming by New Code</span>
+                </div>
+                <a class="c-block__link act" href="http://100kelione.lt/" target="_blank">
+                  <span>100kelione.lt</span>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="c-page__row u-clear">
+            <div class="c-block u-clear c-block--half">
+              <div class="c-block__img-wrap u-clear act">
+                <div class="c-block__img c-block__img--half c-block__img--vilniausenergija">
+                  <a class="c-block__img-link" href="http://www.vilniausenergija.lt" target="_blank"></a>
+                </div>
+              </div>
+              <div class="c-block__desc u-clear">
+                <div class="c-block__title">
+                  <span>frontend programming by New Code</span>
+                </div>
+                <a class="c-block__link act" href="http://vilniausenergija.lt" target="_blank">
+                  <span>vilniausenergija.lt</span>
+                </a>
+              </div>
+            </div>
+            <div class="c-block u-clear c-block--half">
+              <div class="c-block__img-wrap u-clear">
+                <div class="c-block__img c-block__img--half c-block__img--balticlocations"></div>
+                <a class="c-block__img-link" href="http://www.balticlocations.lt" target="_blank"></a>
+              </div>
+              <div class="c-block__desc u-clear">
+                <div class="c-block__title">
+                  <span>frontend programming by New Code</span>
+                </div>
+                <a class="c-block__link act" href="http://balticlocations.lt/" target="_blank">
+                  <span>balticlocations.lt</span>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="c-blocks__row u-clear">
+            <div class="c-block u-clear c-block--half">
+              <div class="c-block__img-wrap u-clear act">
+                <div class="c-block__img c-block__img--half c-block__img--nenustokkeliauti">
+                  <a class="c-block__img-link" href="http://www.nenustokkeliauti.lt" target="_blank"></a>
+                </div>
+              </div>
+              <div class="c-block__desc u-clear">
+                <div class="c-block__title">
+                  <span>programming by New Code</span>
+                </div>
+                <a class="c-block__link act" href="http://www.nenustokkeliauti.lt" target="_blank">
+                  <span>nenustokkeliauti.lt</span>
+                </a>
+              </div>
+            </div>
+            <div class="c-block u-clear c-block--half">
+              <div class="c-block__img-wrap u-clear">
+                <div class="c-block__img c-block__img--half c-block__img--sportage"></div>
+                <a class="c-block__img-link" href="http://www.sportage.lt" target="_blank"></a>
+              </div>
+              <div class="c-block__desc u-clear">
+                <div class="c-block__title">
+                  <span>programming by New Code</span>
+                </div>
+                <a class="c-block__link act" href="http://sportage.lt" target="_blank">
+                  <span>sportage.lt</span>
+                </a>
+              </div>
+            </div>
+          </div>
+          <!--
+          <div class="c-blocks__row u-clear">
+            <div class="c-block u-clear c-block--full">
+              <div class="c-block__img-wrap u-clear">
+                <div class="c-block__img c-block__img--full">
+                  <div class="c-block__video">
+                    <video class="c-block__vid" loop="" muted="" autoplay>
+                      <source src="https://player.vimeo.com/external/140285286.hd.mp4?s=aadec6c0e368c3451feecff652845cea&amp;profile_id=113.mp4" type="video/mp4">
+                      <source src="https://player.vimeo.com/external/140285286.hd.mp4?s=aadec6c0e368c3451feecff652845cea&amp;profile_id=113.webm" type="video/webm">
+                      <source src="https://player.vimeo.com/external/140285286.hd.mp4?s=aadec6c0e368c3451feecff652845cea&amp;profile_id=113.ogv" type="video/ogg">
+                    </video>
+                  </div>
+              -->
+                  <!-- <a class="c-block__img-link" href="http://www.donutlab.lt" target="_blank"></a> -->
+                  <!--
+                </div>
+              </div>
+              <div class="c-block__desc u-clear">
+                <div class="c-block__title">
+                  <span>concept & design by <a class="c-block__title-link" href="http://www.thechocolate.lt/" target="_blank">The Chocolate</a> / programming by New Code</span>
+                </div>
+                <a class="c-block__link act" href="http://www.donutlab.lt" target="_blank">
+                  <span>donutlab.lt</span>
+                </a>
+              </div>
+            </div>
+          </div>
+
+      -->
+          <div class="c-blocks__row u-clear">
+            <div class="c-block u-clear c-block--third">
+              <div class="c-block__img-wrap u-clear act">
+                <div class="c-block__img c-block__img--third c-block__img--acmefilm">
+                  <a class="c-block__img-link" href="http://www.acmefilm.com" target="_blank"></a>
+                </div>
+              </div>
+              <div class="c-block__desc u-clear">
+                <div class="c-block__title">
+                  <span>programming by New Code</span>
+                </div>
+                <a class="c-block__link act" href="http://www.acmefilm.com" target="_blank">
+                  <span>acmefilm.com</span>
+                </a>
+              </div>
+            </div>
+            <div class="c-block u-clear c-block--third">
+              <div class="c-block__img-wrap u-clear act">
+                <div class="c-block__img c-block__img--third c-block__img--citadele">
+                  <a class="c-block__img-link" href="https://www.citadele.lt/kreditai/" target="_blank"></a>
+                </div>
+              </div>
+              <div class="c-block__desc u-clear">
+                <div class="c-block__title">
+                  <span>programming by New Code</span>
+                </div>
+                <a class="c-block__link act" href="https://www.citadele.lt/kreditai/" target="_blank">
+                  <span>citadele.lt/kreditai</span>
+                </a>
+              </div>
+            </div>
+            <div class="c-block u-clear c-block--third">
+              <div class="c-block__img-wrap u-clear act">
+                <div class="c-block__img c-block__img--third c-block__img--enerty">
+                  <a class="c-block__img-link" href="http://enerty.lt" target="_blank"></a>
+                </div>
+              </div>
+              <div class="c-block__desc u-clear">
+                <div class="c-block__title">
+                  <span>programming by New Code</span>
+                </div>
+                <a class="c-block__link act" href="http://enerty.lt" target="_blank">
+                  <span>enerty.lt</span>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="c-blocks__row u-clear">
+            <div class="c-block u-clear c-block--half">
+              <div class="c-block__img-wrap u-clear act">
+                <div class="c-block__img c-block__img--half c-block__img--warrantyexpert">
+                  <a class="c-block__img-link" href="http://www.warranty.expert/" target="_blank"></a>
+                </div>
+              </div>
+              <div class="c-block__desc u-clear">
+                <div class="c-block__title">
+                  <span>programming by New Code</span>
+                </div>
+                <a class="c-block__link act" href="https://warranty.expert/" target="_blank">
+                  <span>warranty.expert</span>
+                </a>
+              </div>
+            </div>
+            <div class="c-block u-clear c-block--half">
+              <div class="c-block__img-wrap u-clear act">
+                <div class="c-block__img c-block__img--half c-block__img--quadrum">
+                  <a class="c-block__img-link" href="http://www.quadrum.lt/" target="_blank"></a>
+                </div>
+              </div>
+              <div class="c-block__desc u-clear">
+                <div class="c-block__title">
+                  <span>programming by New Code</span>
+                </div>
+                <a class="c-block__link act" href="http://quadrum.lt" target="_blank">
+                  <span>quadrum.lt</span>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="c-blocks__row u-clear">
+            <div class="c-block u-clear c-block--third">
+              <div class="c-block__img-wrap u-clear act">
+                <div class="c-block__img c-block__img--third c-block__img--moon">
+                  <a class="c-block__img-link" href="http://4moon.lt/en" target="_blank"></a>
+                </div>
+              </div>
+              <div class="c-block__desc u-clear">
+                <div class="c-block__title">
+                  <span>programming by New Code</span>
+                </div>
+                <a class="c-block__link act" href="http://4moon.lt/en" target="_blank">
+                  <span>4moon.lt</span>
+                </a>
+              </div>
+            </div>
+            <div class="c-block u-clear c-block--third">
+              <div class="c-block__img-wrap u-clear act">
+                <div class="c-block__img c-block__img--third c-block__img--kosesdiena">
+                  <a class="c-block__img-link" href="http://www.kosesdiena.lt" target="_blank"></a>
+                </div>
+              </div>
+              <div class="c-block__desc u-clear">
+                <div class="c-block__title">
+                  <span>programming by New Code</span>
+                </div>
+                <a class="c-block__link act" href="http://kosesdiena.lt" target="_blank">
+                  <span>kosesdiena.lt</span>
+                </a>
+              </div>
+            </div>
+            <div class="c-block u-clear c-block--third">
+              <div class="c-block__img-wrap u-clear act">
+                <div class="c-block__img c-block__img--third c-block__img--patyciumuziejus">
+                  <a class="c-block__img-link" href="http://www.patyciumuziejus.lt/" target="_blank"></a>
+                </div>
+              </div>
+              <div class="c-block__desc u-clear">
+                <div class="c-block__title">
+                  <span>programming by New Code</span>
+                </div>
+                <a class="c-block__link act" href="http://www.patyciumuziejus.lt/" target="_blank">
+                  <span>patyciumuziejus.lt</span>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <div class="c-blocks__row u-clear">
+            <div class="c-block u-clear c-block--third">
+              <div class="c-block__img-wrap u-clear act">
+                <div class="c-block__img c-block__img--third c-block__img--mtgroup">
+                  <a class="c-block__img-link" href="http://www.mtgroup.lt" target="_blank"></a>
+                </div>
+              </div>
+              <div class="c-block__desc u-clear">
+                <div class="c-block__title">
+                  <span>programming by New Code</span>
+                </div>
+                <a class="c-block__link act" href="http://www.mtgroup.lt" target="_blank">
+                  <span>mtgroup.lt</span>
+                </a>
+              </div>
+            </div>
+            <div class="c-block u-clear c-block--third">
+              <div class="c-block__img-wrap u-clear act">
+                <div class="c-block__img c-block__img--third c-block__img--nicole">
+                  <a class="c-block__img-link" href="http://www.nicolesassaman.com/" target="_blank"></a>
+                </div>
+              </div>
+              <div class="c-block__desc u-clear">
+                <div class="c-block__title">
+                  <span>concept, design & programming by New Code</span>
+                </div>
+                <a class="c-block__link act" href="http://www.nicolesassaman.com/" target="_blank">
+                  <span>nicolesassaman.com</span>
+                </a>
+              </div>
+            </div>
+            <div class="c-block u-clear c-block--third">
+              <div class="c-block__img-wrap u-clear act">
+                <div class="c-block__img c-block__img--third c-block__img--drive">
+                  <a class="c-block__img-link" href="http://www.legaldrive.lt/" target="_blank"></a>
+                </div>
+              </div>
+              <div class="c-block__desc u-clear">
+                <div class="c-block__title">
+                  <span>concept, design & programming by New Code</span>
+                </div>
+                <a class="c-block__link act" href="http://www.legaldrive.lt/" target="_blank">
+                  <span>legaldrive.lt</span>
+                </a>
+              </div>
+            </div>
+          </div>
+
+        </div>
+        <div class="c-page__outro">
+          <h3 class="c-page__title c-page__title--outro">
+          Happy to present the crafts. Let's build something together!
+          <span class="_mobile-fix"></span>
+          <a class="act js-nav-link c-outro-link" href="#contacts">Contact us</a>
+            </h3>
+        </div>
+        <div class="c-foot u-clear">
+          <div class="c-page__split c-page__split--foot"></div>
+          <div class="c-foot__title u-clear">
+            <span>JSC New Code</span>
+          </div>
+          <div class="c-foot__info u-clear">
+            <div class="c-foot__left">
+              <span>Let's <a href="mailto:talk@newcode.lt" class="c-foot__mail c-foot__link act">talk@newcode.lt</a><br /><a href="tel:+37068911919" class="c-foot__phone c-foot__link act">+370&nbsp;689&nbsp;11&nbsp;919</a></span>
+            </div>
+            <div class="c-foot__right">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="c-page js-page js-page-skills" data-hash="skills">
+    <div class="c-wrap u-clear">
+      <div class="c-page__cont">
+        <div class="c-page__head u-clear">
+          <h1 class="c-page__h1">Skills</h1>
+          <p>We are skilled at front-end and back-end web technologies.
+            <br> Experienced with various workflows and tools.</p>
+          <div class="c-page__split"></div>
+        </div>
+        <div class="c-page__cols u-clear">
+          <div class="c-page__col">
+            <div class="c-skills">
+              <h2 class="c-skils__h2">Technologies</h2>
+              <div class="c-skills__cont c-skills__list c-list">
+                <div class="c-list__item">
+                  <div class="c-list__title">
+                    <span>HTML</span>
+                  </div>
+                  <div class="c-list__desc">
+                    <span>HTML5, CSS3, Zurb Foundation, Twitter Bootstrap, Semantic UI, Ionic.io.</span>
+                  </div>
+                </div>
+                <div class="c-list__item">
+                  <div class="c-list__title">
+                    <span>CSS</span>
+                  </div>
+                  <div class="c-list__desc">
+                    <span>CSS3, Sass, Less.</span>
+                  </div>
+                </div>
+                <div class="c-list__item">
+                  <div class="c-list__title">
+                    <span>JavaScript</span>
+                  </div>
+                  <div class="c-list__desc">
+                    <span>AngularJS, jQuery, Node.js, Backbone.js, Ember.js, React.</span>
+                  </div>
+                </div>
+                <div class="c-list__item">
+                  <div class="c-list__title">
+                    <span>PHP</span>
+                  </div>
+                  <div class="c-list__desc">
+                    <span>Laravel, CakePHP, CodeIgniter, PhalconPHP.</span>
+                  </div>
+                </div>
+                <div class="c-list__item">
+                  <div class="c-list__title">
+                    <span>Python</span>
+                  </div>
+                  <div class="c-list__desc">
+                    <span>Django, Flask.</span>
+                  </div>
+                </div>
+                <div class="c-list__item">
+                  <div class="c-list__title">
+                    <span>Databases</span>
+                  </div>
+                  <div class="c-list__desc">
+                    <span>MySQL, MongoDB, Redis, Memcached.</span>
+                  </div>
+                </div>
+                <div class="c-list__item">
+                  <div class="c-list__title">
+                    <span>Server</span>
+                  </div>
+                  <div class="c-list__desc">
+                    <span>Nginx, Apache.</span>
+                  </div>
+                </div>
+                <div class="c-list__item">
+                  <div class="c-list__title">
+                    <span>Infrastracture</span>
+                  </div>
+                  <div class="c-list__desc">
+                    <span>Docker, Ansible, Saltstack, Chef.io, Puppetlabs, Nagios.</span>
+                  </div>
+                </div>
+                <div class="c-list__item">
+                  <div class="c-list__title">
+                    <span>CMS</span>
+                  </div>
+                  <div class="c-list__desc">
+                    <span>Wordpress, Drupal, SilverStripe, Get-Simple, Themosis, Our Custom CMS</span>
+                  </div>
+                </div>
+                <div class="c-list__item">
+                  <div class="c-list__title">
+                    <span>E-commerce</span>
+                  </div>
+                  <div class="c-list__desc">
+                    <span>WooCommerce, Prestashop.</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="c-skills">
+              <h2 class="c-skils__h2">Workflows</h2>
+              <div class="c-skills__cont">
+                <div class="c-skills__desc">
+                  <span>We have different workflow schemas depending on a project type.</span>
+                </div>
+
+                <div class="c-skills__cont c-skills__list c-list">
+                  <div class="c-list__item c-list__agency-item">
+                    <div class="c-list__title">
+                      <span>Agency workflow</span>
+                    </div>
+                    <div class="c-list__desc">
+                      <span>PSD design <span class="c-list__rarr">&nbsp;&rarr;&nbsp;</span> HTML/JS development <span class="c-list__rarr">&nbsp;&rarr;&nbsp;</span> testing &amp; bugfixing <span class="c-list__rarr">&nbsp;&rarr;&nbsp;</span> CMS/backend development <span class="c-list__rarr">&nbsp;&rarr;&nbsp;</span> testing &amp; bugfixing <span class="c-list__rarr">&nbsp;&rarr;&nbsp;</span> deployment
+                      </span>
+                    </div>
+                  </div>
+                  <div class="c-list__item c-list__agency-item">
+                    <div class="c-list__title">
+                      <span>Brand workflow</span>
+                    </div>
+                    <div class="c-list__desc">
+                      <span>analysis<span class="c-list__rarr">&nbsp;&rarr;&nbsp;</span>concept development<span class="c-list__rarr">&nbsp;&rarr;&nbsp;</span> design <span class="c-list__rarr">&nbsp;&rarr;&nbsp;</span> PSD design <span class="c-list__rarr">&nbsp;&rarr;&nbsp;</span> HTML/JS development <span class="c-list__rarr">&nbsp;&rarr;&nbsp;</span> testing &amp; bugfixing <span class="c-list__rarr">&nbsp;&rarr;&nbsp;</span> CMS/backend development <span class="c-list__rarr">&nbsp;&rarr;&nbsp;</span> testing &amp; bugfixing <span class="c-list__rarr">&nbsp;&rarr;&nbsp;</span> deployment
+                      </span>
+                    </div>
+                  </div>
+                  <div class="c-list__item">
+                    <div class="c-list__title">
+                      <span>Software workflow</span>
+                    </div>
+                    <div class="c-list__desc">
+                      <span>Agile, Custom</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="c-page__col">
+            <div class="c-skills">
+              <h2 class="c-skils__h2">Services</h2>
+              <div class="c-skills__cont">
+                <span>Websites, web apps, SaaS, mobile apps, landing pages, Facebook apps, integrations</span>
+                <br>
+                <br>
+                <span>Front-end development</span>
+                <br>
+                <span>Back-end development</span>
+                <br>
+                <span>CMS development</span>
+                <br>
+                <span>UX/UI/design</span>
+                <br>
+                <span>Hybrid mobile applications development</span>
+                <br>
+                <span>System architecture & database design</span>
+                <br>
+                <span>Internal SEO, page speed optimization</span>
+                <br>
+                <span>Websites and apps support</span>
+                <br>
+              </div>
+            </div>
+            <div class="c-skills">
+              <h2 class="c-skils__h2">Tools</h2>
+              <div class="c-skills__cont c-skills__list c-list">
+                <div class="c-skills__desc">
+                  <span>We employ modern tools to boost our project management and communication experience.</span>
+                </div>
+                <div class="c-list__item">
+                  <div class="c-list__title">
+                    <span>Asana</span>
+                  </div>
+                  <div class="c-list__desc">
+                    <span>Agency project management</span>
+                  </div>
+                </div>
+                <div class="c-list__item">
+                  <div class="c-list__title">
+                    <span>JIRA</span>
+                  </div>
+                  <div class="c-list__desc">
+                    <span>Software project management</span>
+                  </div>
+                </div>
+                <div class="c-list__item">
+                  <div class="c-list__title">
+                    <span>Slack, Skype, Hangouts, Email</span>
+                  </div>
+                  <div class="c-list__desc">
+                    <span>Communication</span>
+                  </div>
+                </div>
+                <div class="c-list__item">
+                  <div class="c-list__title">
+                    <span>Git, Bitbucket</span>
+                  </div>
+                  <div class="c-list__desc">
+                    <span>Collaboration and code management</span>
+                  </div>
+                </div>
+                <div class="c-list__item">
+                  <div class="c-list__title">
+                    <span>Invision</span>
+                  </div>
+                  <div class="c-list__desc">
+                    <span>UI and design collaboration</span>
+                  </div>
+                </div>
+                <div class="c-list__item">
+                  <div class="c-list__title">
+                    <span>Axure</span>
+                  </div>
+                  <div class="c-list__desc">
+                    <span>Mockups, prototypes</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="c-foot u-clear">
+          <div class="c-page__split c-page__split--foot"></div>
+          <div class="c-foot__title u-clear">
+            <span>JSC New Code</span>
+          </div>
+          <div class="c-foot__info u-clear">
+            <div class="c-foot__left">
+              <span>Let’s <a href="mailto:talk@newcode.lt" class="c-foot__mail c-foot__link act">talk@newcode.lt</a><br /><a href="tel:+37068911919" class="c-foot__phone c-foot__link act">+370&nbsp;689&nbsp;11&nbsp;919</a></span>
+            </div>
+            <div class="c-foot__right">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="c-page js-page js-page-manifesto" data-hash="manifesto">
+    <div class="c-wrap u-clear">
+      <div class="c-page__cont">
+        <div class="c-page__head u-clear">
+          <h1 class="c-page__h1">Manifesto</h1>
+          <p>We are skilled at frontend and backend web technologies.
+            <br> Experienced with various workflows and tools.</p>
+          <div class="c-page__split"></div>
+        </div>
+        <div class="c-page__cols u-clear">
+          <div class="c-page__col">
+            <p></p>
+          </div>
+          <div class="c-page__col">
+            <p></p>
+          </div>
+        </div>
+        <div class="c-foot u-clear">
+          <div class="c-page__split c-page__split--foot"></div>
+          <div class="c-foot__title u-clear">
+            <span>JSC New Code</span>
+          </div>
+          <div class="c-foot__info u-clear">
+            <div class="c-foot__left">
+              <span>Let’s <a href="mailto:talk@newcode.lt" class="c-foot__mail c-foot__link act">talk@newcode.lt</a><br /><a href="tel:+37068911919" class="c-foot__phone c-foot__link act">+370&nbsp;689&nbsp;11&nbsp;919</a></span>
+            </div>
+            <div class="c-foot__right">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="c-page js-page js-page-contacts" data-hash="contacts">
+    <div class="c-wrap u-clear">
+      <div class="c-page__cont">
+        <div class="c-page__head u-clear">
+          <h1 class="c-page__h1">Contact Us</h1>
+          <p>We are here to create something great with you.
+            <br>Lets talk about your next project!</p>
+          <div class="c-page__split"></div>
+        </div>
+        <div class="c-contacts">
+          <div class="c-contacts__text">
+            <p>
+              We are located in Vilnius, Lithuania.
+              <br> Call us +370&nbsp;689&nbsp;11&nbsp;919 or lets&nbsp;<a href="mailto:talk@newcode.lt">talk@newcode.lt</a>
+            </p>
+          </div>
+        </div>
+        <div class="c-foot u-clear">
+          <div class="c-page__split c-page__split--foot"></div>
+          <div class="c-foot__title u-clear">
+            <span>JSC New Code</span>
+          </div>
+          <div class="c-foot__info u-clear">
+            <div class="c-foot__left">
+              <span>Let’s <a href="mailto:talk@newcode.lt" class="c-foot__mail c-foot__link act">talk@newcode.lt</a><br /><a href="tel:+37068911919" class="c-foot__phone c-foot__link act">+370&nbsp;689&nbsp;11&nbsp;919</a></span>
+            </div>
+            <div class="c-foot__right">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="outdated"></div>
+  <!-- <script async type="text/javascript" src="js/plugins.min.js"></script> -->
+  <script async type="text/javascript" src="js/plugins.js"></script>
+
+</body>
+
+</html>
